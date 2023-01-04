@@ -1,0 +1,53 @@
+#informacion{
+    margin-top: 10%;
+}
+
+#name{
+    margin-left: 2%;
+    width: fit-content;
+    font-size: 14px;
+
+}
+
+#Apellido{
+    margin-left: 2%;
+    width: fit-content;
+    font-size: 14px;
+
+}
+
+#Genero{
+    margin-left: 3%;
+    width: 182px;
+    font-size: 14px;
+    
+}
+
+#phone{
+    margin-left: 2%;
+    width: fit-content;
+    font-size: 14px;
+
+}
+
+#email{
+    margin-left: 3.2%;
+    width: fit-content;
+    font-size: 14px;
+
+}
+
+#contacto{
+    margin-left: 0%;
+    width: fit-content;
+    font-size: 18px;
+
+}
+
+#description{
+    margin-left: 2%;
+    width: 400px;
+    height: 200px;
+    font-size: 14px;
+
+}
