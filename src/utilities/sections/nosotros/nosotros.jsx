@@ -14,15 +14,15 @@ function Nosotros (){
                 glkjñlkgñrligjghaskjghaskfskfa
                 jhñlwlñrghjgklhkgwrgklfgwq
                 gfjwkfqhgkhvgqfkhcgashg
-                jhflwkfkwfgbvgwlkhvgwkfgwklhgwflkh  console.warn
-                fgfejlgrjhgjhgfjhqsName="
+                jhflwkfkwfgbvgwlkhvgwkfgwklhgwflkh
+                fgfejlgrjhgjhgfjhqs
                 dfghurluyfkgfjakudtrfkwfcgffh
                 fwauyrfwglrlgflhrtglhftglhrfgwklfjs
                 fhlkjwerfhlufhwjrklsfghkltfgklsgfkrtgflkhrtghkrgvfhlkwgqrlwqfrklwqfhrrglfliwtgr
                 fwhlgrfwuifrwekhfgjkfrjkdfrglwhfrlkhe   hrhklgfkgefregjkfgcffffffffhqfg qjgkfdmj    
                 fweuyrfñeuiofgligrfilygwiqlgrfliegfhkgf hklgewhklgfjhdvlkjgwe
                 fhwghkjfhglkjfghwd
-                vfgk.j  efklgehw,rfwhfylhg  wjhmfdj hfkgj   qfdjgfsekjgq    wfm qgdf,jgq    fdjkfq
+                
 
                 </p>
                 
