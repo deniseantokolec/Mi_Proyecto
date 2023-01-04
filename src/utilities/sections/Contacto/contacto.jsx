@@ -6,7 +6,7 @@ function Contacto () {
         <div>
             <h1 id="informacion"> Contacto</h1>
             <form action="" method="" >
-                <label htmlFor="Nombre">Nombre</label>
+                <label htmlFor="Nombre" className="nombre">Nombre</label>
                 <input type="text"  name="name" id="name"/><br />   
                 <label htmlFor="Apellido">Apellido</label>
                  <input type="text" name="Apellido" id="Apellido"/><br />   
@@ -23,7 +23,8 @@ function Contacto () {
                 <input type="email" name="email" id="email"/><br />
                 <label htmlFor="Description" id="contacto">Razon de Contacto</label><br />
                 <input type="text" name="Description" id="description" />
-
+                <input type="button" value="enviar" />
+                <input type="reset" value="" />
 
                 
 
